@@ -2,8 +2,7 @@ import java.util.Scanner;
 
  class percentage {
     public static void main (String args[]){
-   float eng, phy, chem, maths, comp;
-   float total, average, percentage;
+   float eng, phy, chem, maths, comp, total, average, percentage;
    Scanner rishi=new Scanner (System.in);
    System.out.println("Enter marks of five subjects... ");
    System.out.print("Enter  marks of English subjects: ");
